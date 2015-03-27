@@ -3,7 +3,7 @@ var url = require("url");
 
 var output = [];
 
-var urlPrefix = "https://raw.githubusercontent.com/qunxyz/meteor-jquery-ui-map/master/min/";
+var urlPrefix = "https://raw.githubusercontent.com/qunxyz/meteor-jquery-ui-map/master/ui/min/";
 
 // JPlayer files
 [
