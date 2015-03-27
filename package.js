@@ -1,7 +1,7 @@
 Package.describe({
   name: "jackyqiu:meteor-jquery-ui-map",
   summary: "Google maps v3 plugin for jQuery and jQuery Mobile",
-  version: "3.0.rc1",
+  version: "3.0.1",
   git: "https://github.com/qunxyz/meteor-jquery-ui-map.git"
 });
 
