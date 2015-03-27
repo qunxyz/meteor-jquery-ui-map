@@ -1,0 +1,30 @@
+[
+    {
+        "file": "jquery.ui.map.full.min.js",
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jquery-ui-map/master/min/jquery.ui.map.full.min.js"
+    },
+    {
+        "file": "jquery.ui.map.microdata.min.js",
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jquery-ui-map/master/min/jquery.ui.map.microdata.min.js"
+    },
+    {
+        "file": "jquery.ui.map.microformat.min.js",
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jquery-ui-map/master/min/jquery.ui.map.microformat.min.js"
+    },
+    {
+        "file": "jquery.ui.map.min.js",
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jquery-ui-map/master/min/jquery.ui.map.min.js"
+    },
+    {
+        "file": "jquery.ui.map.overlays.min.js",
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jquery-ui-map/master/min/jquery.ui.map.overlays.min.js"
+    },
+    {
+        "file": "jquery.ui.map.rdfa.min.js",
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jquery-ui-map/master/min/jquery.ui.map.rdfa.min.js"
+    },
+    {
+        "file": "jquery.ui.map.services.min.js",
+        "url": "https://raw.githubusercontent.com/qunxyz/meteor-jquery-ui-map/master/min/jquery.ui.map.services.min.js"
+    }
+]
